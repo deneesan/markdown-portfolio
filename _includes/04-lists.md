@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Trail running
+* Kayaking
+* Playing instruments
+  * Guitar
+  * Bass
+* Drawing
